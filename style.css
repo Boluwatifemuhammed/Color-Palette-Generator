@@ -48,7 +48,7 @@ h1::after{
 }
 
 #generate-btn{
-    background: linear-gradient(to right, rgb(77, 77, 255), rgb(163, 83, 255));
+    background: linear-gradient(to right, rgb(51, 51, 237), rgb(160, 185, 255));
     color: white;
     padding: 0.5rem 0.8rem;
     border: none;
@@ -61,6 +61,7 @@ h1::after{
 
 #generate-btn:hover{
     transform: translateY(-2px);
+    opacity: 0.9;
 }
 #generate-btn:active{
     transform: translateY(0px);
